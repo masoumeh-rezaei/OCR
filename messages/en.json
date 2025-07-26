@@ -1,0 +1,354 @@
+{
+   "Header":{
+    "home": "Home",
+    "about": "About",
+    "menu": "Our Menu",
+    "impressum": "Impressum",
+    "datenschutz": "Privacy Policy"
+   },
+  "HeaderMobile":{
+    "home": "Home",
+    "login": "Login",
+    "menu": "Our Menu",
+    "impressum": "Impressum",
+    "datenschutz": "Privacy Policy"
+  },
+   "Hero":{
+      "title": "Smart Bill Management",
+      "subtitle": "Simplified.",
+      "description": "Upload your invoices and let AI organize them by date, total price, and more — secure and automatic.",
+      "button": "Upload Your First Invoice"
+    },
+  "HowItWorks": {
+    "title": "How Taxnify Works",
+    "steps-upload-title": "Upload Your Invoice",
+    "steps-upload-description": "Simply drag and drop your invoice — secure, fast, and hassle-free.",
+    "steps-analysis-title": "AI-Powered Extraction",
+    "steps-analysis-description": "Our smart AI extracts key information like amount, date, and vendor with precision.",
+    "steps-organized-title": "Automatic Organization",
+    "steps-organized-description": "Invoices are instantly sorted and categorized — ready for viewing or export."
+  },
+
+  "AIExplanation": {
+    "ai-title": "AI-Driven Financial Automation for Teams",
+    "title-mobile": "AI for Business",
+
+    "ai-explanations-0-title": "Collaborative Receipt Management",
+    "ai-explanations-0-description": "Allow multiple users across your company to securely upload and manage receipts in one centralized platform — always organized, always accessible.",
+
+    "ai-explanations-1-title": "Intelligent Cost Attribution",
+    "ai-explanations-1-description": "Our AI smartly identifies which department, client, or project an expense belongs to — ideal for businesses with multiple cost centers or client accounts.",
+
+    "ai-explanations-2-title": "Real-Time Financial Overview",
+    "ai-explanations-2-description": "Stay on top of your company’s finances with dynamic reports, visual dashboards, and instant exports — perfect for managers and accountants alike."
+  },
+
+
+  "Flexible": {
+    "flexible-0-title": "Scales with Your Business",
+    "flexible-0-description": "Whether you're a solo entrepreneur or a growing company, Taxnify adapts to your workflow. Upload invoices of any size — from large transactions to daily receipts — and let our AI handle the rest.",
+
+    "flexible-1-title": "From Chaos to Clarity",
+    "flexible-1-description": "Say goodbye to cluttered spreadsheets. Our platform automatically organizes documents, detects key financial data, and delivers clean reports you can rely on for planning and analysis."
+  },
+
+
+  "features": {
+    "title": "Core Features That Empower Your Workflow",
+    "title-mobile": "Core Features ",
+
+    "features-0-title": "AI-Powered Invoice Detection",
+    "features-0-description": "Detect and identify invoices with precision — even in large, cluttered document sets — using our next-gen AI engine.",
+
+    "features-1-title": "Automated Data Extraction",
+    "features-1-description": "Extract critical details like vendor, total amount, and due date automatically — saving time and reducing human error.",
+
+    "features-2-title": "Enterprise-Grade Security & Compliance",
+    "features-2-description": "Your documents are encrypted end-to-end and stored securely. Taxnify is GDPR-compliant and designed to meet enterprise-level data protection standards."
+
+
+  },
+
+
+  "footer":{
+      "footer-app-name": "MyAIApp",
+      "footer-description": "Empowering your documents with smart AI automation. Simplify. Automate. Accelerate.",
+      "footer-quick-links": "Quick Links",
+      "footer-home": "Home",
+      "footer-features": "Features",
+      "footer-pricing": "Pricing",
+      "footer-contact": "Contact",
+      "footer-contact-title": "Contact Us",
+      "footer-email": "Email: support@myaiapp.com",
+      "footer-address": "Address: 123 AI Street, Tech City",
+      "footer-rights": "All rights reserved."
+    },
+    "scrollDots":{
+      "scroll-intro": "Intro",
+      "scroll-how-it-works": "How Taxnify Works",
+      "scroll-AI": "AI Explanation",
+      "scroll-flexibility": "Why Taxnify?",
+      "scroll-features": "Features",
+      "scroll-scrollen": "Scroll"
+    },
+    
+      "datenschutz": {
+        "title": "Privacy Policy",
+        "intro": "The protection of your personal data is very important to us. Below we inform you about the collection, processing and use of your personal data within the scope of our website and services.",
+        "responsibleTitle": "1. Responsible Entity",
+        "responsibleText": "Taxnify.de\nOwner: Ali Reza Nangoli\nBuchenstraße 21\n90587 Veitsbronn-Siegelsdorf\nPhone: +49 (0)911 97926820\nEmail: info@taxnify.de",
+        "dataCollectionTitle": "2. Collection and Storage of Personal Data",
+        "dataCollectionList": [
+          "IP address",
+          "Date and time of request",
+          "Name and URL of the retrieved file",
+          "Transferred data volume",
+          "Referrer URL",
+          "Browser type and operating system",
+          "Name, email address and password upon registration",
+          "Company data when registering a business",
+          "Uploaded files",
+          "Server logs"
+        ],
+        "dataCollectionNote": "These data are needed to provide services, manage user accounts, communicate and ensure security.",
+        "legalBasisTitle": "3. Legal Basis for Data Processing",
+        "legalBasisText": "The processing of your data is based on Art. 6 para. 1 lit. b and lit. f GDPR.",
+        "disclosureTitle": "4. Data Disclosure",
+        "disclosureText": "Disclosure only occurs if required by law or necessary for contract fulfillment.",
+        "cookiesTitle": "5. Cookies",
+        "cookiesText": "Our website uses cookies. You can disable them in your browser settings.",
+        "externalServicesTitle": "6. Use of External Services",
+        "externalServicesList": [
+          "Bootstrap CDN",
+          "AOS animations",
+          "Server hosting provider"
+        ],
+        "externalServicesNote": "No use of Google Analytics or other tracking tools.",
+        "securityTitle": "7. Data Security",
+        "securityText": "Technical and organizational measures protect your data against manipulation or unauthorized access.",
+        "rightsTitle": "8. Your Rights",
+        "rightsText": "You have the right to access, correct, delete, restrict, transfer and object to your data at any time.",
+        "updateTitle": "9. Update",
+        "updateText": "This privacy policy is valid from April 2025 and will be updated as needed."
+      },
+      
+        "impressum": {
+          "title": "Impressum",
+          "section1Title": "Information according to § 5 TMG",
+          "section1Text": "Taxnify.de\nOwner: Ali Reza Nangoli\nBuchenstraße 21\n90587 Veitsbronn-Siegelsdorf\nGermany",
+          "section2Title": "Contact",
+          "section2Text": "Phone: +49 (0)911 97926820\nMobile: +49 (0)163 5428657\nEmail: info@taxnify.de",
+          "section2Email": "info@taxnify.de",
+          "section3Title": "Responsible for content according to § 55 Abs. 2 RStV",
+          "section3Text": "Ali Reza Nangoli"
+        },
+  "cookieBanner": {
+    "message": "We use cookies to improve your experience.",
+    "accept": "Accept",
+    "reject": "Reject"
+
+},
+
+  "login": {
+    "title": "Login to your account",
+    "username": "Username",
+    "password": "Password",
+    "username_placeholder": "Enter your username",
+    "password_placeholder": "Enter your password",
+    "required_username": "Username is required",
+    "required_password": "Password is required",
+    "invalid_email": "Please enter a valid email address",
+    "min_password": "Password must be at least 6 characters",
+    "loading": "Logging in...",
+    "submit": "Login",
+    "forgot_password": "Forgot your password?",
+    "signup_prompt": "Don’t have an account?",
+    "signup_link": "Sign up here",
+    "toast_success": "Login successful",
+    "toast_error": "Invalid username or password"
+  },
+  "signup": {
+    "title": "Create Account",
+    "username": "Username",
+    "username_placeholder": "Your Username",
+    "password": "Password",
+    "password_placeholder": "Your Password",
+    "confirm_password": "Confirm Password",
+    "confirm_password_placeholder": "Re-enter your password",
+    "submit": "Sign Up",
+    "loading": "Creating your account...",
+    "success": "Signup successful! Redirecting...",
+    "error": "Signup failed",
+    "required_username": "Please enter your username",
+    "invalid_email": "Please enter a valid email address",
+    "required_password": "Please enter your password",
+    "min_password": "Password must be at least 6 characters",
+    "required_confirm_password": "Confirmation is required",
+    "min_confirm_password": "Confirmation must be at least 6 characters",
+    "confirm_password_mismatch": "Passwords do not match",
+    "login_prompt": "Already have an account?",
+    "login_link": "Log in",
+    "toast_success": "Signup successful!",
+    "toast_error": "Signup failed. Please try again."
+  },
+
+
+  "verify": {
+    "title": "Verify Your Email",
+    "code_label": "Verification Code",
+    "code_placeholder": "Enter your code",
+    "required_code": "Verification code is required",
+    "verify_button": "Verify",
+    "loading": "Verifying...",
+    "success": "Email verified successfully!",
+    "invalid_or_expired": "Invalid or expired code",
+    "resend": "Resend Code",
+    "resend_success": "Verification code sent successfully",
+    "resend_wait": "You can resend the code in",
+    "Email already verified": "Email already verified"
+  },
+
+
+
+
+"forgetpass": {
+    "title": "Reset your password",
+    "email_label": "Email",
+    "email_placeholder": "Enter your email",
+    "required_email": "Email is required",
+    "success": "If your email exists, a reset code has been sent.",
+    "error": "Something went wrong. Please try again later.",
+    "loading": "Sending...",
+    "submit": "Send reset code",
+  "invalid_email": "Invalid email format"
+},
+  "resetpass": {
+    "title": "Reset Password",
+    "code_label": "Reset Code",
+    "code_placeholder": "Enter your code",
+    "required_code": "Code is required",
+    "password_label": "New Password",
+    "password_placeholder": "Enter new password",
+    "required_password": "Password is required",
+    "confirm_label": "Confirm Password",
+    "confirm_placeholder": "Repeat new password",
+    "required_confirm": "Confirmation is required",
+    "mismatch_password": "Passwords do not match",
+    "loading": "Submitting...",
+    "submit": "Reset Password",
+    "resend_code": "Resend Code",
+    "resend_code_in": "You can request a new code in",
+    "code_resent_success": "A new code has been sent.",
+    "error": "Something went wrong. Please try again.",
+    "invalid_email": "Invalid email format",
+    "success": "Password reset successfully"
+  },
+    "subusers":{
+      "name": "Name",
+      "email": "Email",
+      "role": "Role",
+      "position": "Position",
+      "email_verified": "Email Verified",
+      "yes": "Yes",
+      "no": "No",
+      "loading": "Loading...",
+      "error": "Error",
+      "unknown_error": "An unknown error occurred",
+      "no_data": "No sub-users found",
+      "edit": "Edit",
+      "delete": "Delete",
+      "deleting": "Deleting...",
+      "confirm_delete_title": "Delete Sub-User",
+      "confirm_delete_message": "Are you sure you want to delete this sub-user? This action cannot be undone."
+    },
+
+  "users": {
+
+  "title": "Users",
+  "subtitle": "Manage all your sub-users here",
+  "action": "Add",
+  "all": "All",
+  "loading": "Loading",
+    "fetch_count_error": "Failed to fetch sub-user count"
+
+  },
+
+  "form": {
+    "title": "Add Sub-User",
+    "email": "Email",
+    "password": "Password",
+    "confirm": "Confirm Password",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "position": "Position",
+    "role": "Role",
+    "role_viewer": "Viewer",
+    "role_editor": "Editor",
+    "submit": "Create User",
+    "creating": "Creating",
+    "email_invalid": "Please enter a valid email.",
+    "passwords_mismatch": "Passwords do not match.",
+    "success": "Sub-user created successfully.",
+    "fail": "Failed to create sub-user.",
+    "email_required": "Email is required.",
+    "password_required": "Password is required.",
+    "confirm_required": "Please confirm your password.",
+    "role_required": "Role is required."
+  },
+  "editForm": {
+    "edit_subuser": "Edit Sub-user",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "position": "Position",
+    "email": "Email",
+    "role": "Role",
+    "role_viewer": "Viewer",
+    "role_editor": "Editor",
+    "select_role": "Select Role",
+    "save": "Save",
+    "saving": "Saving",
+    "loading": "Loading...",
+    "required_name": "First name is required",
+    "required_last_name": "Last name is required",
+    "required_role": "Role is required",
+    "update_success": "Sub-user updated successfully",
+    "update_error": "Failed to update sub-user",
+    "fetch_error": "Failed to fetch sub-user information"
+  },
+  "pricing": {
+    "title": "Choose your plan",
+    "subtitle": "Pick the plan that fits your team and workflow. Cancel anytime.",
+    "monthly": "/month",
+    "yearly": "or €{price} /year",
+    "max_users": "Max Users: {count}",
+    "max_companies": "Max Companies: {count}",
+    "trial": "{days} days free trial",
+    "get_started": "Get Started",
+    "loading": "Loading plans...",
+    "fetch_error": "An error occurred while fetching the plans. Please try again."
+  },
+  "planModal": {
+    "loading": "Loading plan details...",
+    "title": "{planName}",
+    "discount_code_label": "Discount Code",
+    "discount_code_placeholder": "Enter discount code (optional)",
+    "description": "Full details of the selected plan",
+    "monthly_price": "Monthly Price",
+    "yearly_price": "Yearly Price",
+    "max_users": "Max Users",
+    "max_companies": "Max Companies",
+    "trial": "Trial Period",
+    "days": "{days} days",
+    "confirm": "Confirm and Continue",
+    "select_billing": "Select Billing Period",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "plan_chosen_success": "Plan selected successfully!",
+    "error_choosing_plan": "An error occurred while selecting the plan."
+  }
+
+
+
+
+}
+  

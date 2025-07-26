@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@keyframes modal-slide-down-from-top {
+  0% {
+    opacity: 0;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0%) scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
+@keyframes modal-slide-up-to-top {
+  0% {
+    opacity: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  100% {
+    opacity: 0;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0%) scale(0.95);
+  }
+}
+
+.modal-enter{
+  animation: modal-slide-down-from-top 400ms ease-out forwards;
+}
+
+.modal-exit{
+  animation: modal-slide-up-to-top 300ms ease-in forwards;
+}
+
+
+
+
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-darkblue:#0f3460;
+  --color-blue:#6A9AB0;
+  --color-lightblue:#E2F1E7;
+  --color-darkColor:#0f172a;
+  --color-lightColor:#F8F9FB;
+  --color-lightTitle:#CAE9FF;
+  --color-lightBox:#e3f2fd;
+  --color-darkFooter: #091023;
+  --color-blueTitle:#3b82f6;
+  --color-yellowTitle:#facc15;
+  --color-darkSlider:#1e2742;
+  --color-darkBg:#13192f;
+  --color-darkText:#878b99;
+--color-darkHoverText:#5d4dd1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

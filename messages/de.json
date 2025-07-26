@@ -1,0 +1,350 @@
+{
+    "Header":{
+    "home": "Startseite",
+    "about": "Über uns",
+    "menu": "Unser Menü",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz"
+    },
+  "HeaderMobile":{
+    "home": "Startseite",
+    "login": "Anmeldung",
+    "menu": "Unser Menü",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz"
+  },
+    "Hero":{
+      "title": "Intelligente Rechnungsverwaltung",
+      "subtitle":"vereinfacht.",
+      "description": "Lade deine Rechnungen hoch und lass die KI sie automatisch nach Datum, Gesamtpreis und mehr sortieren — sicher und automatisch.",
+      "button": "Lade deine erste Rechnung hoch"
+    },
+  "HowItWorks": {
+    "title": "Wie Taxnify funktioniert",
+    "steps-upload-title": "Rechnung hochladen",
+    "steps-upload-description": "Laden Sie Ihre Rechnung einfach per Drag-and-Drop hoch – sicher, schnell und unkompliziert.",
+    "steps-analysis-title": "KI-gestützte Analyse",
+    "steps-analysis-description": "Unsere intelligente KI extrahiert präzise wichtige Informationen wie Betrag, Datum und Verkäufer.",
+    "steps-organized-title": "Automatische Organisation",
+    "steps-organized-description": "Rechnungen werden sofort sortiert und kategorisiert – bereit zur Anzeige oder zum Export."
+  },
+
+  "AIExplanation": {
+    "ai-title": "KI-gestützte Finanzprozesse für Unternehmen",
+    "title-mobile": "KI für Firmen",
+
+    "ai-explanations-0-title": "Teamorientierte Belegverwaltung",
+    "ai-explanations-0-description": "Ermöglichen Sie mehreren Nutzern in Ihrem Unternehmen, Belege zentral hochzuladen und zu verwalten. Jeder Upload wird sicher gespeichert und steht sofort für die weitere Verarbeitung bereit.",
+
+    "ai-explanations-1-title": "Intelligente Kostenzuordnung",
+    "ai-explanations-1-description": "Unsere KI erkennt automatisch, zu welchem Projekt oder welcher Abteilung eine Ausgabe gehört – perfekt für Unternehmen mit komplexen Kostenstellen oder Mandantenstruktur.",
+
+    "ai-explanations-2-title": "Finanzübersicht in Echtzeit",
+    "ai-explanations-2-description": "Behalten Sie den Überblick über Ihre Finanzen mit automatisch aktualisierten Berichten, visuellen Dashboards und exportierbaren Zusammenfassungen – jederzeit abrufbar für Management und Buchhaltung."
+  },
+
+
+  "Flexible": {
+    "flexible-0-title": "Wächst mit Ihrem Unternehmen",
+    "flexible-0-description": "Egal ob Einzelunternehmer oder wachsendes Unternehmen – Taxnify passt sich Ihrem Arbeitsablauf an. Laden Sie beliebige Rechnungen hoch, von Großtransaktionen bis zu Alltagsbelegen – die KI erledigt den Rest für Sie.",
+
+    "flexible-1-title": "Von Chaos zur Klarheit",
+    "flexible-1-description": "Verabschieden Sie sich von unübersichtlichen Tabellen. Unsere Plattform organisiert Ihre Dokumente automatisch, erkennt relevante Finanzdaten und erstellt aussagekräftige Berichte für Planung und Analyse."
+  },
+
+
+  "features": {
+    "title": "Kernfunktionen für Ihren Unternehmenserfolg",
+    "title-mobile": "Kernfunktionen ",
+
+    "features-0-title": "KI-gestützte Rechnungserkennung",
+    "features-0-description": "Unsere moderne KI erkennt Rechnungen auch in komplexen oder unstrukturierten Dokumenten – zuverlässig und schnell.",
+
+    "features-1-title": "Automatische Datenerfassung",
+    "features-1-description": "Wichtige Informationen wie Lieferant, Betrag und Fälligkeitsdatum werden automatisch extrahiert – ganz ohne manuelle Eingaben.",
+
+    "features-2-title": "Sicherheit & Datenschutz auf Unternehmensniveau",
+    "features-2-description": "Ihre Daten werden durchgängig verschlüsselt und DSGVO-konform gespeichert – mit höchsten Standards für Unternehmenssicherheit."
+
+
+  },
+
+
+  "footer":{
+      "footer-app-name": "MyAIApp",
+      "footer-description": "Intelligente KI-Automatisierung für Ihre Dokumente. Vereinfachen. Automatisieren. Beschleunigen.",
+      "footer-quick-links": "Schnellzugriff",
+      "footer-home": "Startseite",
+      "footer-features": "Funktionen",
+      "footer-pricing": "Preise",
+      "footer-contact": "Kontakt",
+      "footer-contact-title": "Kontaktieren Sie uns",
+      "footer-email": "E-Mail: support@myaiapp.com",
+      "footer-address": "Adresse: AI-Straße 123, Techstadt",
+      "footer-rights": "Alle Rechte vorbehalten."
+    },
+    "scrollDots":{
+      "scroll-intro": "Intro",
+      "scroll-how-it-works": "Wie Taxnify funktioniert",
+      "scroll-AI": "KI-Erklärung",
+      "scroll-flexibility": "Warum Taxnify?",
+      "scroll-features": "Funktionen",
+      "scroll-scrollen": "Scrollen"
+    },
+
+      "datenschutz": {
+        "title": "Datenschutzerklärung",
+        "intro": "Der Schutz Ihrer persönlichen Daten ist uns ein wichtiges Anliegen. Nachfolgend informieren wir Sie über die Erhebung, Verarbeitung und Nutzung Ihrer personenbezogenen Daten im Rahmen der Nutzung unserer Website und unseres Services.",
+        "responsibleTitle": "1. Verantwortlicher",
+        "responsibleText": "Taxnify.de\nInhaber: Ali Reza Nangoli\nBuchenstraße 21\n90587 Veitsbronn-Siegelsdorf\nTelefon: +49 (0)911 97926820\nE-Mail: info@taxnify.de",
+        "dataCollectionTitle": "2. Erhebung und Speicherung personenbezogener Daten",
+        "dataCollectionList": [
+          "IP-Adresse",
+          "Datum und Uhrzeit der Anfrage",
+          "Name und URL der abgerufenen Datei",
+          "Übertragene Datenmenge",
+          "Referrer-URL",
+          "Browsertyp und Betriebssystem",
+          "Name, E-Mail-Adresse und Passwort bei Registrierung",
+          "Unternehmensdaten bei Registrierung einer Firma",
+          "Hochgeladene Dateien",
+          "Server-Logs"
+        ],
+        "dataCollectionNote": "Diese Daten werden benötigt zur Bereitstellung der Dienste, Verwaltung von Benutzerkonten, Kommunikation und Sicherheit.",
+        "legalBasisTitle": "3. Rechtsgrundlage der Datenverarbeitung",
+        "legalBasisText": "Die Verarbeitung Ihrer Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b und lit. f DSGVO.",
+        "disclosureTitle": "4. Weitergabe von Daten",
+        "disclosureText": "Eine Weitergabe erfolgt nur, wenn gesetzlich erforderlich oder zur Vertragserfüllung notwendig.",
+        "cookiesTitle": "5. Cookies",
+        "cookiesText": "Unsere Website verwendet Cookies. Sie können diese in Ihrem Browser deaktivieren.",
+        "externalServicesTitle": "6. Nutzung externer Dienste",
+        "externalServicesList": [
+          "Bootstrap CDN",
+          "AOS Animationen",
+          "Server Hosting Provider"
+        ],
+        "externalServicesNote": "Keine Verwendung von Google Analytics oder anderen Tracking-Tools.",
+        "securityTitle": "7. Datensicherheit",
+        "securityText": "Technische und organisatorische Maßnahmen schützen Ihre Daten gegen Manipulation oder unberechtigten Zugriff.",
+        "rightsTitle": "8. Ihre Rechte",
+        "rightsText": "Sie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit und Widerspruch.",
+        "updateTitle": "9. Aktualität",
+        "updateText": "Diese Datenschutzerklärung ist gültig ab April 2025 und wird bei Bedarf angepasst."
+      },
+
+        "impressum": {
+          "title": "Impressum",
+          "section1Title": "Angaben gemäß § 5 TMG",
+          "section1Text": "Taxnify.de\nInhaber: Ali Reza Nangoli\nBuchenstraße 21\n90587 Veitsbronn-Siegelsdorf\nDeutschland",
+          "section2Title": "Kontakt",
+          "section2Text": "Telefon: +49 (0)911 97926820\nMobil: +49 (0)163 5428657\nE-Mail: info@taxnify.de",
+          "section2Email": "info@taxnify.de",
+          "section3Title": "Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV",
+          "section3Text": "Ali Reza Nangoli"
+        },
+
+  "cookieBanner": {
+    "message": "Wir verwenden Cookies, um Ihre Erfahrung zu verbessern.",
+    "accept": "Akzeptieren",
+    "reject": "Ablehnen"
+
+},
+  "login": {
+    "title": "Melde dich in deinem Konto an",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "username_placeholder": "Gib deinen Benutzernamen ein",
+    "password_placeholder": "Gib dein Passwort ein",
+    "required_username": "Benutzername ist erforderlich",
+    "required_password": "Passwort ist erforderlich",
+    "invalid_email": "Bitte eine gültige E-Mail-Adresse eingeben",
+    "min_password": "Passwort muss mindestens 6 Zeichen lang sein",
+    "loading": "Anmeldung läuft...",
+    "submit": "Anmelden",
+    "forgot_password": "Passwort vergessen?",
+    "signup_prompt": "Du hast noch kein Konto?",
+    "signup_link": "Jetzt registrieren",
+    "toast_success": "Anmeldung erfolgreich",
+    "toast_error": "Benutzername oder Passwort ist ungültig"
+  },
+  "signup": {
+    "title": "Konto erstellen",
+    "username": "Benutzername",
+    "username_placeholder": "Ihr Benutzername",
+    "password": "Passwort",
+    "password_placeholder": "Ihr Passwort",
+    "confirm_password": "Passwort bestätigen",
+    "confirm_password_placeholder": "Passwort erneut eingeben",
+    "submit": "Registrieren",
+    "loading": "Konto wird erstellt...",
+    "success": "Registrierung erfolgreich! Weiterleitung...",
+    "error": "Registrierung fehlgeschlagen",
+    "required_username": "Bitte geben Sie Ihren Benutzernamen ein",
+    "invalid_email": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+    "required_password": "Bitte geben Sie Ihr Passwort ein",
+    "min_password": "Das Passwort muss mindestens 6 Zeichen lang sein",
+    "required_confirm_password": "Bitte bestätigen Sie Ihr Passwort",
+    "min_confirm_password": "Die Bestätigung muss mindestens 6 Zeichen lang sein",
+    "confirm_password_mismatch": "Passwörter stimmen nicht überein",
+    "login_prompt": "Bereits ein Konto?",
+    "login_link": "Anmelden",
+    "toast_success": "Registrierung erfolgreich!",
+    "toast_error": "Registrierung fehlgeschlagen. Bitte erneut versuchen."
+  },
+  "verify": {
+    "title": "Bestätige deine E-Mail",
+    "code_label": "Bestätigungscode",
+    "code_placeholder": "Gib deinen Code ein",
+    "required_code": "Bestätigungscode ist erforderlich",
+    "verify_button": "Bestätigen",
+    "loading": "Wird überprüft...",
+    "success": "E-Mail erfolgreich bestätigt!",
+    "invalid_or_expired": "Ungültiger oder abgelaufener Code",
+    "resend": "Code erneut senden",
+    "resend_success": "Bestätigungscode wurde erfolgreich gesendet",
+    "resend_wait": "Du kannst den Code erneut senden in",
+    "Email already verified": "E-Mail wurde bereits bestätigt"
+  },
+
+
+
+
+"forgetpass": {
+    "title": "Passwort zurücksetzen",
+    "email_label": "E-Mail",
+    "email_placeholder": "Geben Sie Ihre E-Mail ein",
+    "required_email": "E-Mail ist erforderlich",
+    "success": "Wenn Ihre E-Mail existiert, wurde ein Reset-Code gesendet.",
+    "error": "Etwas ist schief gelaufen. Bitte versuchen Sie es später erneut.",
+    "loading": "Senden...",
+    "submit": "Reset-Code senden",
+  "invalid_email": "Ungültiges E-Mail-Format"
+
+
+},
+  "resetpass": {
+    "title": "Passwort zurücksetzen",
+    "code_label": "Reset-Code",
+    "code_placeholder": "Geben Sie Ihren Code ein",
+    "required_code": "Der Code ist erforderlich",
+    "password_label": "Neues Passwort",
+    "password_placeholder": "Geben Sie ein neues Passwort ein",
+    "required_password": "Passwort ist erforderlich",
+    "confirm_label": "Passwort bestätigen",
+    "confirm_placeholder": "Wiederholen Sie das neue Passwort",
+    "required_confirm": "Bestätigung ist erforderlich",
+    "mismatch_password": "Die Passwörter stimmen nicht überein",
+    "loading": "Wird gesendet...",
+    "submit": "Passwort zurücksetzen",
+    "resend_code": "Code erneut senden",
+    "resend_code_in": "Sie können einen neuen Code anfordern in",
+    "code_resent_success": "Ein neuer Code wurde gesendet.",
+    "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+    "invalid_email": "Ungültiges E-Mail-Format"
+  },
+  "subusers":{
+    "name": "Name",
+    "email": "E-Mail",
+    "role": "Rolle",
+    "position": "Position",
+    "email_verified": "E-Mail bestätigt",
+    "yes": "Ja",
+    "no": "Nein",
+    "loading": "Lädt...",
+    "error": "Fehler",
+    "unknown_error": "Ein unbekannter Fehler ist aufgetreten",
+    "no_data": "Keine Sub-Benutzer gefunden",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "deleting": "Wird gelöscht...",
+    "confirm_delete_title": "Sub-Benutzer löschen",
+    "confirm_delete_message": "Möchten Sie diesen Sub-Benutzer wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden."
+  },
+
+  "users": {
+    "title": "Benutzer",
+    "subtitle": "Verwalte hier alle deine Unterbenutzer",
+    "action": "Hinzufügen",
+    "all": "Alle",
+    "loading": "Lädt",
+    "fetch_count_error": "Fehler beim Abrufen der Anzahl der Unterbenutzer"
+  },
+  "form": {
+    "title": "Unterbenutzer hinzufügen",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirm": "Passwort bestätigen",
+    "first_name": "Vorname",
+    "last_name": "Nachname",
+    "position": "Position",
+    "role": "Rolle",
+    "role_viewer": "Betrachter",
+    "role_editor": "Bearbeiter",
+    "submit": "Benutzer erstellen",
+    "creating": "Wird erstellt",
+    "email_invalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "passwords_mismatch": "Passwörter stimmen nicht überein.",
+    "success": "Unterbenutzer wurde erfolgreich erstellt.",
+    "fail": "Fehler beim Erstellen des Unterbenutzers.",
+    "email_required": "E-Mail ist erforderlich.",
+    "password_required": "Passwort ist erforderlich.",
+    "confirm_required": "Bitte bestätigen Sie Ihr Passwort.",
+    "role_required": "Rolle ist erforderlich."
+  },
+  "editForm": {
+    "edit_subuser": "Unterbenutzer bearbeiten",
+    "first_name": "Vorname",
+    "last_name": "Nachname",
+    "position": "Position",
+    "email": "E-Mail",
+    "role": "Rolle",
+    "role_viewer": "Zuschauer",
+    "role_editor": "Bearbeiter",
+    "select_role": "Rolle auswählen",
+    "save": "Speichern",
+    "saving": "Speichern",
+    "loading": "Lädt...",
+    "required_name": "Vorname ist erforderlich",
+    "required_last_name": "Nachname ist erforderlich",
+    "required_role": "Rolle ist erforderlich",
+    "update_success": "Unterbenutzer erfolgreich aktualisiert",
+    "update_error": "Aktualisierung des Unterbenutzers fehlgeschlagen",
+    "fetch_error": "Fehler beim Laden des Unterbenutzers"
+  },
+  "pricing": {
+    "title": "Wähle deinen Plan",
+    "subtitle": "Wähle den Plan, der zu deinem Team und Arbeitsablauf passt. Jederzeit kündbar.",
+    "monthly": "/Monat",
+    "yearly": "oder €{price} /Jahr",
+    "max_users": "Maximale Benutzer: {count}",
+    "max_companies": "Maximale Firmen: {count}",
+    "trial": "{days} Tage kostenlos testen",
+    "get_started": "Loslegen",
+    "loading": "Pläne werden geladen...",
+    "fetch_error": "Beim Laden der Pläne ist ein Fehler aufgetreten. Bitte versuche es erneut."
+  },
+  "planModal": {
+    "loading": "Loading plan details...",
+    "title": "{planName}",
+    "discount_code_label": "Rabattcode",
+    "discount_code_placeholder": "Rabattcode eingeben (optional)",
+    "description": "Vollständige Details des ausgewählten Tarifs",
+    "monthly_price": "Monatlicher Preis",
+    "yearly_price": "Jährlicher Preis",
+    "max_users": "Maximale Benutzer",
+    "max_companies": "Maximale Unternehmen",
+    "trial": "Testzeitraum",
+    "days": "{days} Tage",
+    "confirm": "Bestätigen und fortfahren",
+    "select_billing": "Abrechnungszeitraum auswählen",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "plan_chosen_success": "Tarif erfolgreich ausgewählt!",
+    "error_choosing_plan": "Beim Auswählen des Tarifs ist ein Fehler aufgetreten."
+  }
+
+
+
+
+}
+  
