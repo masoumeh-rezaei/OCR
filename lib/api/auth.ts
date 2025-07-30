@@ -6,7 +6,7 @@ export type LoginCredentials = {
     password: string;
 };
 export type User = {
-    id: string;
+    user_id: string;
     username: string;
     email: string;
     main_user_id: number;
