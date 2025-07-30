@@ -49,6 +49,7 @@ export const useAuth = () => {
     };
 };
 
+
 export const useProtected = () => {
     return useQuery({
         queryKey: ['protected'],

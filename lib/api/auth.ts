@@ -77,10 +77,18 @@ export const fetchMe = async (): Promise<User> => {
 };
 
 // 🔒 Protected content
-export const fetchProtectedContent = async (): Promise<{ msg: string }> => {
+type ProtectedData = {
+    msg: string;
+    role: string;
+    user_id: string;
+    main_user_id: string;
+    permissions: string[];
+};
+export const fetchProtectedContent = async (): Promise<ProtectedData> => {
     const res = await axiosClient.get('/api/auth/protected');
     return res.data;
 };
+
 
 
 // 🚪 Logout

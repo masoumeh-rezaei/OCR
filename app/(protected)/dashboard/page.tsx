@@ -4,6 +4,7 @@ import { useProtected } from '@/hooks/useAuth';
 import { useRouter } from 'next/navigation';
 import { useEffect } from 'react';
 
+
 export default function DashboardPage() {
     const router = useRouter();
     const { data, isLoading, isError } = useProtected();
